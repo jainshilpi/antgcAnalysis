@@ -1,0 +1,5 @@
+### fname                               outputname             isdata   xsec            itype	idType
+#ntuples_10_26_2020/SinglePhotonRun2017Full.root	data70_out.root	1	1	100 70
+#ntuples_10_26_2020/SinglePhotonRun2017Full.root	data80_out.root	1	1	100 80
+#ntuples_10_26_2020/SinglePhotonRun2017Full.root	data90_out.root	1	1	100 90
+ntuples_10_26_2020/SinglePhotonRun2017Full.root	data95_out.root	1	1	100 95
